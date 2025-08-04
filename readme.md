@@ -1,4 +1,4 @@
-# WebGoat.NETCore
+# WebGoat.NETCore XXXXXXXXXXXXXXXXXXX
 Updates in this fork where specifically made for GitHub Advanced Security training purposes, for both on GitHub (GHAS) as well as Azure DevOps (GHAzDo). Here is a list of additions: 
 - Upgraded to .NET core 5.0
 - Upgraded GitHub workflows to most recent action versions
@@ -130,6 +130,7 @@ The the WebGoat.NETCore website will be accessible at the URL specified with the
 - Replaced SQL Server Local DB with SQLite database.
 - Added support for running WebGoat in a Linux Docker container.
 - Improved formatting of prices (rounding + removed $ character for consistency)
+
 
 
 
